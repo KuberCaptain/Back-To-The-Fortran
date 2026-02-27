@@ -34,7 +34,7 @@ Each task folder contains:
 | # | Task | Topic | Status |
 |---|------|-------|--------|
 | 01 | Hello, World! | Program structure, output | ✅ |
-| 02 | Variables & Types | INTEGER, REAL, CHARACTER | ⬜ |
+| 02 | The Relativistic Passport | REAL(8), SQRT, formatted WRITE | ✅ |
 | 03 | Arithmetic | Operators and expressions | ⬜ |
 | 04 | Conditionals | IF / ELSE IF / ELSE | ⬜ |
 | 05 | Loops | DO, DO WHILE | ⬜ |
