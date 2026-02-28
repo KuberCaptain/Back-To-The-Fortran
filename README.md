@@ -36,7 +36,7 @@ Each task folder contains:
 | 01 | Hello, World! | Program structure, output | ✅ |
 | 02 | The Relativistic Passport | REAL(8), SQRT, formatted WRITE | ✅ |
 | 03 | Kerosene Ballistics | COS/SIN, PARAMETER, T-tab format | ✅ |
-| 04 | Conditionals | IF / ELSE IF / ELSE | ⬜ |
+| 04 | The Atmospheric Probe | IF/ELSE IF, READ, STOP, EXP, TRIM | ✅ |
 | 05 | Loops | DO, DO WHILE | ⬜ |
 | 06 | Arrays | 1D and 2D | ⬜ |
 | 07 | Subroutines | SUBROUTINE, CALL | ⬜ |
