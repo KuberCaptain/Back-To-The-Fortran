@@ -37,7 +37,7 @@ Each task folder contains:
 | 02 | The Relativistic Passport | REAL(8), SQRT, formatted WRITE | ✅ |
 | 03 | Kerosene Ballistics | COS/SIN, PARAMETER, T-tab format | ✅ |
 | 04 | The Atmospheric Probe | IF/ELSE IF, READ, STOP, EXP, TRIM | ✅ |
-| 05 | Loops | DO, DO WHILE | ⬜ |
+| 05 | The Fibonacci-Rutherford Chain Reaction | DO WHILE, INTEGER(8), DBLE, T-tab | ✅ |
 | 06 | Arrays | 1D and 2D | ⬜ |
 | 07 | Subroutines | SUBROUTINE, CALL | ⬜ |
 | 08 | Functions | FUNCTION, RETURN | ⬜ |
