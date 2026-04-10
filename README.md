@@ -38,7 +38,7 @@ Each task folder contains:
 | 03 | Kerosene Ballistics | COS/SIN, PARAMETER, T-tab format | ✅ |
 | 04 | The Atmospheric Probe | IF/ELSE IF, READ, STOP, EXP, TRIM | ✅ |
 | 05 | The Fibonacci-Rutherford Chain Reaction | DO WHILE, INTEGER(8), DBLE, T-tab | ✅ |
-| 06 | Arrays | 1D and 2D | ⬜ |
+| 06 | The Splendor and Misery of Flat Surfaces | Arrays, Lambertian shading, ADVANCE='NO' | ✅ |
 | 07 | Subroutines | SUBROUTINE, CALL | ⬜ |
 | 08 | Functions | FUNCTION, RETURN | ⬜ |
 | 09 | Modules | MODULE, USE | ⬜ |
